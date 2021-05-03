@@ -1,4 +1,4 @@
-package br.com.zupacademy.priscila.mercadolivre.Usuario;
+package br.com.zupacademy.priscila.mercadolivre.usuario;
 
 import br.com.zupacademy.priscila.mercadolivre.utils.validation.UniqueValue;
 import org.hibernate.validator.constraints.Length;

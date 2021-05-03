@@ -1,4 +1,4 @@
-package br.com.zupacademy.priscila.mercadolivre.Usuario;
+package br.com.zupacademy.priscila.mercadolivre.usuario;
 
 import org.hibernate.validator.constraints.Length;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

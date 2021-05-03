@@ -1,4 +1,4 @@
-package br.com.zupacademy.priscila.mercadolivre.Usuario;
+package br.com.zupacademy.priscila.mercadolivre.usuario;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
