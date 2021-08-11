@@ -1,9 +1,23 @@
-# Desafio Mercado Livre
+# Bootcamp Orange Talents 
 
-https://github.com/zup-academy/nosso-cartao-documentacao/tree/master/orange-talent-4/treino-mercado-livre   
+Conteúdo: https://github.com/zup-academy/nosso-cartao-documentacao/tree/master/orange-talent-4
+
+## Desafio Mercado Livre
+
+Implementar uma API que simule parte do funcionamento do Mercado Livre;
+
+Requisitos: https://github.com/zup-academy/nosso-cartao-documentacao/tree/master/orange-talent-4/treino-mercado-livre
+
+## Tecnologias utilizadas:
+- Java 11
+- Spring Boot 
+- Maven
+- MySQL
+- Health Check
+- Jwt Authentication
 
 
-### Funcionalidades:  
+### Funcionalidades implementadas:  
 [X] - 0-1-1-cadastro-usuario  
 [X] - 1-1-1-nao-pode-ter-usuario-mesmo-email  
 [X] - 1-1-2-cadastro-categoria  
